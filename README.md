@@ -7,4 +7,7 @@
 3. [最长连续序列](src/main/java/samoy/hash/longestconsecutivesequence/Solution.java)
 
 # 双指针
+
 1. [移动零](src/main/java/samoy/doublepointer/movezero/Solution.java)
+2. [盛水最多的容器](src/main/java/samoy/doublepointer/containerwithmostwater/Solution.java)
+3. [三数之和](src/main/java/samoy/doublepointer/threesum/Solution.java)
