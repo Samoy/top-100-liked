@@ -5,6 +5,9 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ * @link <a href="https://leetcode.cn/problems/group-anagrams/?envType=study-plan-v2&envId=top-100-liked">字母异位词分组</a>
+ */
 public class Solution {
     public List<List<String>> groupAnagrams(List<String> strs) {
         HashMap<String, List<String>> map = new HashMap<>();

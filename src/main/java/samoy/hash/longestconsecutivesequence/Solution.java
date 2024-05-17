@@ -3,6 +3,9 @@ package samoy.hash.longestconsecutivesequence;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @link <a href="https://leetcode.cn/problems/longest-consecutive-sequence/?envType=study-plan-v2&envId=top-100-liked">最长连续序列</a>
+ */
 public class Solution {
     public int longestConsecutive(int[] nums) {
         // 使用HashSet存储数组中的所有数字，以方便快速查找

@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * @link <a href="https://leetcode.cn/problems/3sum/?envType=study-plan-v2&envId=top-100-liked">三数之和</a>
+ */
 public class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         // 首先对数组进行排序，以便更容易找到和为0的三元组

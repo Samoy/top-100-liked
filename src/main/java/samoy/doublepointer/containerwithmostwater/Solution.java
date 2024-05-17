@@ -1,5 +1,8 @@
 package samoy.doublepointer.containerwithmostwater;
 
+/**
+ * @link <a href="https://leetcode.cn/problems/container-with-most-water/?envType=study-plan-v2&envId=top-100-liked">盛最多水的容器</a>
+ */
 class Solution {
     public int maxArea(int[] height) {
         // 头指针

@@ -1,5 +1,8 @@
 package samoy.doublepointer.movezero;
 
+/**
+ * @link <a href="https://leetcode.cn/problems/move-zeroes/?envType=study-plan-v2&envId=top-100-liked">移动零</a>
+ */
 class Solution {
     public void moveZeroes(int[] nums) {
         // 遍历指针
