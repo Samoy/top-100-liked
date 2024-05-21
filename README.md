@@ -30,3 +30,4 @@
 2. [合并区间](src/main/java/samoy/array/mergeintervals/Solution.java)
 3. [轮转数组](src/main/java/samoy/array/rotatearray/Solution.java)
 4. [除自身以外数组的乘积](src/main/java/samoy/array/productofarrayexceptself/Solution.java)
+5. [缺失的第一个正数](src/main/java/samoy/array/firstmissingpositive/Solution.java)
