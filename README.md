@@ -29,3 +29,4 @@
 1. [最大子数组和](src/main/java/samoy/array/maximumsubarray/Solution.java)
 2. [合并区间](src/main/java/samoy/array/mergeintervals/Solution.java)
 3. [轮转数组](src/main/java/samoy/array/rotatearray/Solution.java)
+4. [除自身以外数组的乘积](src/main/java/samoy/array/productofarrayexceptself/Solution.java)
