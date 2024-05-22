@@ -48,3 +48,4 @@
 5. [环形链表Ⅱ](src/main/java/samoy/linkedlist/linkedlistcycleii/Solution.java)
 6. [两数相加](src/main/java/samoy/linkedlist/addtwonumbers/Solution.java)
 7. [删除链表的倒数第N个节点](src/main/java/samoy/linkedlist/removenthnodefromendoflist/Solution.java)
+8. [两两交换链表中的节点](src/main/java/samoy/linkedlist/swapnodesinpairs/Solution.java)
