@@ -43,3 +43,4 @@
 
 1. [相交链表](src/main/java/samoy/linkedlist/intersectionoftwolinkedlists/Solution.java)
 2. [反转链表](src/main/java/samoy/linkedlist/reverselinkedlist/Solution.java)
+3. [回文链表](src/main/java/samoy/linkedlist/palindromelinkedlist/Solution.java)
