@@ -53,3 +53,4 @@
 10. [随机链表的复制](src/main/java/samoy/linkedlist/copylistwithrandompointer/Solution.java)
 11. [排序链表](src/main/java/samoy/linkedlist/sortlist/Solution.java)
 12. [合并K个升序列表](src/main/java/samoy/linkedlist/mergeksortedlists/Solution.java)
+13. [LRU缓存](src/main/java/samoy/linkedlist/lrucache/LRUCache.java)
