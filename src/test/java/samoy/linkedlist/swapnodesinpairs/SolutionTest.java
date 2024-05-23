@@ -11,21 +11,13 @@ class SolutionTest {
     void swapPairs() {
         Solution s = new Solution();
         int[] nodeValues = new int[]{2, 1, 4, 3, 5};
-        ListNode node = s.swapPairs(new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5))))));
-        ListNode node1 = s.swapPairs(new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5))))));
+        ListNode node1 = s.swapPairs2(new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5))))));
         int i = 0;
-        while (node != null) {
-            assertEquals(nodeValues[i++], node.val);
-            node = node.next;
-        }
-        int j = 0;
         while (node1 != null) {
-            assertEquals(nodeValues[j++], node1.val);
+            assertEquals(nodeValues[i++], node1.val);
             node1 = node1.next;
         }
-        assertNull(s.swapPairs(null));
         assertNull(s.swapPairs2(null));
-        assertEquals(1, s.swapPairs(new ListNode(1)).val);
         assertEquals(1, s.swapPairs2(new ListNode(1)).val);
     }
 }

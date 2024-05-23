@@ -6,6 +6,7 @@ import samoy.common.ListNode;
  * @link <a href="https://leetcode.cn/problems/swap-nodes-in-pairs/description/?envType=study-plan-v2&envId=top-100-liked">两两交换链表中的节点</a>
  */
 class Solution {
+    @Deprecated
     public ListNode swapPairs(ListNode head) {
         // 如果链表为空，直接返回null
         if (head == null) return null;
