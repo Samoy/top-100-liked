@@ -60,3 +60,4 @@
 1. [二叉树的中序遍历](src/main/java/samoy/binarytree/binarytreeinordertraversal/Solution.java)
 2. [二叉树的最大深度](src/main/java/samoy/binarytree/maximumdepthofbinarytree/Solution.java)
 3. [翻转二叉树](src/main/java/samoy/binarytree/invertbinarytree/Solution.java)
+4. [对称二叉树](src/main/java/samoy/binarytree/symmetrictree/Solution.java)
