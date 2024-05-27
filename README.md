@@ -64,3 +64,4 @@
 5. [二叉树的直径](src/main/java/samoy/binarytree/diameterofbinarytree/Solution.java)\
 6. [二叉树的层序遍历](src/main/java/samoy/binarytree/binarytreelevelordertraversal/Solution.java)
 7. [将有序数组转换为二叉搜索树](src/main/java/samoy/binarytree/convertsortedarraytobinarysearchtree/Solution.java)
+8. [验证二叉搜索树](src/main/java/samoy/binarytree/validatebinarysearchtree/Solution.java)
