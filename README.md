@@ -65,3 +65,4 @@
 6. [二叉树的层序遍历](src/main/java/samoy/binarytree/binarytreelevelordertraversal/Solution.java)
 7. [将有序数组转换为二叉搜索树](src/main/java/samoy/binarytree/convertsortedarraytobinarysearchtree/Solution.java)
 8. [验证二叉搜索树](src/main/java/samoy/binarytree/validatebinarysearchtree/Solution.java)
+9. [二叉搜索树中第K小的元素](src/main/java/samoy/binarytree/kthsmallestelementinabst/Solution.java)
