@@ -78,4 +78,5 @@
 1. [岛屿数量](src/main/java/samoy/graph/numberofislands/Solution.java)
 2. [腐烂的橘子](src/main/java/samoy/graph/rottingoranges/Solution.java)
 3. [课程表](src/main/java/samoy/graph/courseschedule/Solution.java)
-4. [实现Trie（前缀树）](src/main/java/samoy/graph/implementtrieprefixtree/Trie.java)
+4. [实现Trie（前缀树）](src/main/java/samoy/graph/implementtrieprefixtree/Trie.java)  
+5. [全排列](src/main/java/samoy/backtrack/permutations/Solution.java)
