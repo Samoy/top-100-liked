@@ -67,3 +67,5 @@
 8. [验证二叉搜索树](src/main/java/samoy/binarytree/validatebinarysearchtree/Solution.java)
 9. [二叉搜索树中第K小的元素](src/main/java/samoy/binarytree/kthsmallestelementinabst/Solution.java)
 10. [二叉树的右视图](src/main/java/samoy/binarytree/binarytreerightsideview/Solution.java)
+11. [二叉树展开为链表](src/main/java/samoy/binarytree/flattenbinarytreetolinkedlist/Solution.java)
+12. 
