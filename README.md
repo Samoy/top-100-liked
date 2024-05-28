@@ -71,3 +71,4 @@
 12. [从前序遍历与中序遍历序列构建二叉树](src/main/java/samoy/binarytree/constructbinarytreefrompreorderandinordertraversal/Solution.java)
 13. [路径总和Ⅲ](src/main/java/samoy/binarytree/pathsumiii/Solution.java)
 14. [二叉树的最近公共祖先](src/main/java/samoy/binarytree/lowestcommonancestorofabinarytree/Solution.java)
+15. [二叉树中的最大路径和](src/main/java/samoy/binarytree/binarytreemaximumpathsum/Solution.java)
