@@ -68,4 +68,5 @@
 9. [二叉搜索树中第K小的元素](src/main/java/samoy/binarytree/kthsmallestelementinabst/Solution.java)
 10. [二叉树的右视图](src/main/java/samoy/binarytree/binarytreerightsideview/Solution.java)
 11. [二叉树展开为链表](src/main/java/samoy/binarytree/flattenbinarytreetolinkedlist/Solution.java)
-12. [从前序遍历与中序遍历序列构建二叉树](src/main/java/samoy/binarytree/constructbinarytreefrompreorderandinordertraversal/Solution.java)  
+12. [从前序遍历与中序遍历序列构建二叉树](src/main/java/samoy/binarytree/constructbinarytreefrompreorderandinordertraversal/Solution.java)
+13. [路径总和Ⅲ](src/main/java/samoy/binarytree/pathsumiii/Solution.java)
