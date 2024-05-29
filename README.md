@@ -89,3 +89,4 @@
 5. [括号生成](src/main/java/samoy/backtrack/generateparentheses/Solution.java)
 6. [单词搜索](src/main/java/samoy/backtrack/wordsearch/Solution.java)
 7. [分割回文串](src/main/java/samoy/backtrack/palindromepartitioning/Solution.java)
+8. [N皇后](src/main/java/samoy/backtrack/nqueens/Solution.java)
