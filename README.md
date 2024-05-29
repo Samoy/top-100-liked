@@ -87,3 +87,4 @@
 3. [电话号码的字母组合](src/main/java/samoy/backtrack/lettercombinationsofaphonenumber/Solution.java)
 4. [组合总和](src/main/java/samoy/backtrack/combinationsum/Solution.java)
 5. [括号生成](src/main/java/samoy/backtrack/generateparentheses/Solution.java)
+6. [单词搜索](src/main/java/samoy/backtrack/wordsearch/Solution.java)
