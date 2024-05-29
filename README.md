@@ -85,3 +85,4 @@
 1. [全排列](src/main/java/samoy/backtrack/permutations/Solution.java)
 2. [子集](src/main/java/samoy/backtrack/subsets/Solution.java)
 3. [电话号码的字母组合](src/main/java/samoy/backtrack/lettercombinationsofaphonenumber/Solution.java)
+4. [组合总和](src/main/java/samoy/backtrack/combinationsum/Solution.java)
