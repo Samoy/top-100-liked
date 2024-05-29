@@ -94,3 +94,4 @@
 ## 二分查找
 
 1. [搜索插入位置](src/main/java/samoy/binarysearch/searchinsertposition/Solution.java)
+2. [搜索二维矩阵](src/main/java/samoy/binarysearch/searcha2dmatrix/Solution.java)
