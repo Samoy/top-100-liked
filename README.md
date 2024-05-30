@@ -106,3 +106,4 @@
 2. [最小栈](src/main/java/samoy/stack/minstack/MinStack.java)
 3. [字符串解码](src/main/java/samoy/stack/decodestring/Solution.java)
 4. [每日温度](src/main/java/samoy/stack/dailytemperatures/Solution.java)
+5. [柱状图中最大的矩形](src/main/java/samoy/stack/largestrectangleinhistogram/Solution.java)
