@@ -95,3 +95,4 @@
 
 1. [搜索插入位置](src/main/java/samoy/binarysearch/searchinsertposition/Solution.java)
 2. [搜索二维矩阵](src/main/java/samoy/binarysearch/searcha2dmatrix/Solution.java)
+3. [在排序数组中查找元素的第一个和最后一个位置](src/main/java/samoy/binarysearch/findfirstandlastpositionofelementinsortedarray/Solution.java)
