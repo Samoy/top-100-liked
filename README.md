@@ -107,3 +107,7 @@
 3. [字符串解码](src/main/java/samoy/stack/decodestring/Solution.java)
 4. [每日温度](src/main/java/samoy/stack/dailytemperatures/Solution.java)
 5. [柱状图中最大的矩形](src/main/java/samoy/stack/largestrectangleinhistogram/Solution.java)
+
+## 堆
+
+1. [数组中的第K个最大元素](src/main/java/samoy/heap/kthlargestelementinanarray/Solution.java)
