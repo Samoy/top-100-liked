@@ -99,3 +99,7 @@
 4. [搜索旋转排序数组](src/main/java/samoy/binarysearch/searchinrotatedsortedarray/Solution.java)
 5. [寻找旋转排序数组中的最小值](src/main/java/samoy/binarysearch/findminimuminrotatedsortedarray/Solution.java)
 6. [寻找两个有序数组的中位数](src/main/java/samoy/binarysearch/medianoftwosortedarrays/Solution.java)
+
+## 栈
+
+1. [有效的括号](src/main/java/samoy/stack/validparentheses/Solution.java)
