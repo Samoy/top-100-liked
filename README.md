@@ -103,3 +103,4 @@
 ## 栈
 
 1. [有效的括号](src/main/java/samoy/stack/validparentheses/Solution.java)
+2. [最小栈](src/main/java/samoy/stack/minstack/MinStack.java)
