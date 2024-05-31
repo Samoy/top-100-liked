@@ -125,3 +125,4 @@
 
 1. [爬楼梯](src/main/java/samoy/dynamicprogramming/climbingstairs/Solution.java)
 2. [杨辉三角](src/main/java/samoy/dynamicprogramming/climbingstairs/Solution.java)
+3. [打家劫舍](src/main/java/samoy/dynamicprogramming/houserobber/Solution.java)
