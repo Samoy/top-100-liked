@@ -117,3 +117,4 @@
 ## 贪心
 
 1. [买卖股票的最佳时机](src/main/java/samoy/cupidity/besttimetobuyandsellstock/Solution.java)
+2. [跳跃游戏](src/main/java/samoy/cupidity/jumpgame/Solution.java)
