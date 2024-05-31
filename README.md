@@ -129,3 +129,4 @@
 4. [完全平方数](src/main/java/samoy/dynamicprogramming/perfectsquares/Solution.java)
 5. [零钱兑换](src/main/java/samoy/dynamicprogramming/coinchange/Solution.java)
 6. [单词拆分](src/main/java/samoy/dynamicprogramming/wordbreak/Solution.java)
+7. [最长递增子序列](src/main/java/samoy/dynamicprogramming/longestincreasingsubsequence/Solution.java)
