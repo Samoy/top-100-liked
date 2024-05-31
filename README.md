@@ -113,3 +113,7 @@
 1. [数组中的第K个最大元素](src/main/java/samoy/heap/kthlargestelementinanarray/Solution.java)
 2. [前 K 个高频元素](src/main/java/samoy/heap/topkfrequentelements/Solution.java)
 3. [数据流的中位数](src/main/java/samoy/heap/findmedianfromdatastream/MedianFinder.java)
+
+## 贪心
+
+1. [买卖股票的最佳时机](src/main/java/samoy/cupidity/besttimetobuyandsellstock/Solution.java)
