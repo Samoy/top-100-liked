@@ -127,3 +127,4 @@
 2. [杨辉三角](src/main/java/samoy/dynamicprogramming/climbingstairs/Solution.java)
 3. [打家劫舍](src/main/java/samoy/dynamicprogramming/houserobber/Solution.java)
 4. [完全平方数](src/main/java/samoy/dynamicprogramming/perfectsquares/Solution.java)
+5. [零钱兑换](src/main/java/samoy/dynamicprogramming/coinchange/Solution.java)
