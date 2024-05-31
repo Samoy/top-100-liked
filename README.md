@@ -124,3 +124,4 @@
 ## 动态规划
 
 1. [爬楼梯](src/main/java/samoy/dynamicprogramming/climbingstairs/Solution.java)
+2. [杨辉三角](src/main/java/samoy/dynamicprogramming/climbingstairs/Solution.java)
