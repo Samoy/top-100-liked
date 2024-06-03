@@ -145,3 +145,4 @@
 ### 技巧
 
 1. [只出现一次的元素](src/main/java/samoy/skills/singlenumber/Solution.java)
+2. [多数元素](src/main/java/samoy/skills/majorityelement/Solution.java)
