@@ -141,3 +141,7 @@
 3. [最长回文子串](src/main/java/samoy/multidimensionaldp/longestpalindromicsubstring/Solution.java)
 4. [最长公共子序列](src/main/java/samoy/multidimensionaldp/longestcommonsubsequence/Solution.java)
 5. [编辑距离](src/main/java/samoy/multidimensionaldp/editdistance/Solution.java)
+
+### 技巧
+
+1. [只出现一次的元素](src/main/java/samoy/skills/singlenumber/Solution.java)
