@@ -148,3 +148,4 @@
 2. [多数元素](src/main/java/samoy/skills/majorityelement/Solution.java)
 3. [颜色分类](src/main/java/samoy/skills/sortcolors/Solution.java)
 4. [下一个排列](src/main/java/samoy/skills/nextpermutation/Solution.java)
+5. [寻找重复数](src/main/java/samoy/skills/findtheduplicatenumber/Solution.java)
