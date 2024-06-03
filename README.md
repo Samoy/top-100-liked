@@ -1,5 +1,6 @@
 # LeetCode 热题 100
-
+[![Test](https://github.com/Samoy/top-100-liked/actions/workflows/test.yml/badge.svg)](https://github.com/Samoy/top-100-liked/actions/workflows/test.yml)
+[![codecov](https://codecov.io/github/Samoy/top-100-liked/graph/badge.svg?token=4OSG4KH5RE)](https://codecov.io/github/Samoy/top-100-liked)
 ## 哈希
 
 1. [两数之和](src/main/java/samoy/hash/twosum/Solution.java)
