@@ -15,6 +15,7 @@ class SolutionTest {
         new Solution().nextPermutation(arr2);
         assertArrayEquals(new int[]{1, 2, 3}, arr2);
         int[] arr3 = new int[]{1, 1, 5};
+        new Solution().nextPermutation(arr3);
         assertArrayEquals(new int[]{1, 5, 1}, arr3);
     }
 }
