@@ -132,3 +132,4 @@
 7. [最长递增子序列](src/main/java/samoy/dynamicprogramming/longestincreasingsubsequence/Solution.java)
 8. [乘积最大子数组](src/main/java/samoy/dynamicprogramming/maximumproductsubarray/Solution.java)
 9. [分割等和子集](src/main/java/samoy/dynamicprogramming/partitionequalsubsetsum/Solution.java)
+10. [最长有效括号](src/main/java/samoy/dynamicprogramming/longestvalidparentheses/Solution.java)
