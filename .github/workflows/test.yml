@@ -28,7 +28,7 @@ jobs:
           cache: maven
       - name: Test with Maven
         run: |
-          maven clean
+          mvn clean
           mvn test
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v4
