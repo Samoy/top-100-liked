@@ -135,4 +135,6 @@
 10. [最长有效括号](src/main/java/samoy/dynamicprogramming/longestvalidparentheses/Solution.java)
 
 ### 多维动态规划
-1. [不同路径]
+
+1. [不同路径](src/main/java/samoy/multidimensionaldp/uniquepaths/Solution.java)
+2. [最小路径和](src/main/java/samoy/multidimensionaldp/minimumpathsum/Solution.java)
