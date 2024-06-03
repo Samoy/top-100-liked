@@ -140,3 +140,4 @@
 2. [最小路径和](src/main/java/samoy/multidimensionaldp/minimumpathsum/Solution.java)
 3. [最长回文子串](src/main/java/samoy/multidimensionaldp/longestpalindromicsubstring/Solution.java)
 4. [最长公共子序列](src/main/java/samoy/multidimensionaldp/longestcommonsubsequence/Solution.java)
+5. [编辑距离](src/main/java/samoy/multidimensionaldp/editdistance/Solution.java)
