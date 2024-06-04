@@ -27,9 +27,7 @@ jobs:
           distribution: 'temurin'
           cache: maven
       - name: Test with Maven
-        run: |
-          mvn -v
-          mvn clean test -e
+        run: mvn clean test -e
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v4
         with:
